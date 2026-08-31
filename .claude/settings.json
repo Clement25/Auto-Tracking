@@ -2,7 +2,7 @@
   "sandbox": {
     "enabled": true,
     "network": {
-      "allowedDomains": [
+      "allowedHosts": [
         "api.notion.com"
       ]
     }
