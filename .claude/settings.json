@@ -1,5 +1,6 @@
 {
   "sandbox": {
+    "enabled": true,
     "network": {
       "allowedDomains": [
         "api.notion.com"
