@@ -1,125 +1,166 @@
 # US Semiconductor Stocks — Daily Report
-> **Date:** 2026-08-30 | **Generated:** 06:00 UTC | **Stocks tracked:** 20
+> **Date:** 2026-08-30 | **Generated:** 12:00 UTC | **Stocks tracked:** 20
+
+---
 
 ## Market Snapshot
-| # | Ticker | Company | Price (USD) | Change (USD) | Change (%) | Market Cap | 52W High | 52W Low |
-|---|--------|---------|-------------|--------------|------------|------------|----------|----------|
-| 1 | NVDA | NVIDIA Corporation | $217.55 | -$10.42 | -4.57% | $5.25T | $236.54 | $164.07 |
-| 2 | TSM | Taiwan Semiconductor (ADR) | $426.10 | -$1.20 | -0.28% | ~$2.21T | N/A | N/A |
-| 3 | AVGO | Broadcom Inc. | $368.79 | -$2.75 | -0.74% | $1.87T | N/A | N/A |
-| 4 | MU | Micron Technology | $932.86 | -$2.52 | -0.27% | ~$1.03T | N/A | N/A |
-| 5 | AMD | Advanced Micro Devices | $476.67 | -$16.71 | -3.40% | $753.79B | ~$506.00 | N/A |
-| 6 | ASML | ASML Holding (ADR) | $1,740.13 | -$23.65 | -1.34% | ~$722B | N/A | N/A |
-| 7 | AMAT | Applied Materials | $585.78 | N/A | N/A | ~$403B | N/A | N/A |
-| 8 | INTC | Intel Corporation | $89.47 | -$2.63 | -2.85% | ~$380B | N/A | N/A |
-| 9 | KLAC | KLA Corporation | $182.57 | N/A | N/A | ~$266B | $307.37 | $83.22 |
-| 10 | TXN | Texas Instruments | $213.35 | -$6.51 | -2.96% | ~$192B | N/A | N/A |
-| 11 | MRVL | Marvell Technology | $216.40 | -$24.04 | -10.00% | ~$188B | N/A | N/A |
-| 12 | QCOM | Qualcomm Inc. | $164.19 | -$0.59 | -0.36% | ~$174B | N/A | N/A |
-| 13 | CDNS | Cadence Design Systems | $331.96 | N/A | N/A | ~$90.6B | $416.68 | $263.01 |
-| 14 | MPWR | Monolithic Power Systems | $1,362.94 | -$63.06 | -4.42% | $64.7B | $1,714.09 | $800.97 |
-| 15 | SNPS | Synopsys | $410.00 | N/A | N/A | ~$63.6B | N/A | N/A |
-| 16 | LRCX | Lam Research | $366.81 | N/A | N/A | ~$51B | $433.33 | N/A |
-| 17 | MCHP | Microchip Technology | $72.93 | N/A | N/A | ~$39.6B | N/A | N/A |
-| 18 | ON | ON Semiconductor | $74.80 | N/A | N/A | ~$32.2B | N/A | N/A |
-| 19 | ENTG | Entegris | $140.11 | N/A | N/A | ~$21.3B | N/A | N/A |
-| 20 | SWKS | Skyworks Solutions | $65.70 | N/A | N/A | ~$10.7B | N/A | N/A |
+*Prices and data sourced from Yahoo Finance, Google Finance, and financial news outlets as of August 30, 2026. Daily change reflects the most recent available session. N/A indicates data unavailable via current access methods.*
 
-*Prices reflect August 29, 2026 closing data. Market caps marked `~` are estimates. N/A indicates data unavailable via accessible sources.*
+| # | Ticker | Company | Price (USD) | Change (USD) | Change (%) | Market Cap | 52W High | 52W Low |
+|---|--------|---------|-------------|--------------|------------|------------|----------|---------|
+| 1 | NVDA | NVIDIA Corporation | $212.00 | N/A | N/A | ~$5.17T | N/A | N/A |
+| 2 | TSM | Taiwan Semiconductor (ADR) | $417.52 | +$9.40 | +2.30% | ~$2.17T | N/A | N/A |
+| 3 | AVGO | Broadcom Inc. | $380.00 | N/A | N/A | ~$1.79T | N/A | N/A |
+| 4 | MU | Micron Technology | $935.00 | N/A | N/A | ~$1.03T | $1,257 | N/A |
+| 5 | AMD | Advanced Micro Devices | $476.00 | N/A | N/A | ~$771B | N/A | N/A |
+| 6 | ASML | ASML Holding (ADR) | $1,844.00 | N/A | N/A | ~$745B | N/A | N/A |
+| 7 | AMAT | Applied Materials | $535.00 | N/A | N/A | ~$452B | $723.00 | N/A |
+| 8 | KLAC | KLA Corporation | $1,812.06 | N/A | N/A | ~$257B | N/A | N/A |
+| 9 | TXN | Texas Instruments | $266.54 | N/A | N/A | ~$243B | $334.03 | $152.73 |
+| 10 | MRVL | Marvell Technology | $216.62 | N/A | N/A | ~$204B | N/A | N/A |
+| 11 | INTC | Intel Corporation | $89.25 | N/A | N/A | ~$192B | $95.00 | N/A |
+| 12 | QCOM | Qualcomm Inc. | $157.00 | N/A | N/A | ~$176B | N/A | N/A |
+| 13 | CDNS | Cadence Design Systems | $347.52 | N/A | N/A | ~$95B | N/A | N/A |
+| 14 | SNPS | Synopsys | $442.61 | N/A | N/A | ~$68B | N/A | N/A |
+| 15 | MPWR | Monolithic Power Systems | $1,311.00 | N/A | N/A | $64.43B | N/A | N/A |
+| 16 | MCHP | Microchip Technology | $72.93 | N/A | N/A | ~$38B | $102.92 | N/A |
+| 17 | ON | ON Semiconductor | $73.93 | N/A | N/A | ~$32B | N/A | N/A |
+| 18 | ENTG | Entegris | $161.03 | N/A | N/A | ~$27B | N/A | N/A |
+| 19 | LRCX | Lam Research | N/A | N/A | N/A | N/A | N/A | N/A |
+| 20 | SWKS | Skyworks Solutions | $65.70 | N/A | N/A | ~$9.9B | N/A | N/A |
+
+> *Note: Daily change data unavailable for most tickers due to financial data source access restrictions. LRCX price data was inconsistent across sources and is marked N/A to avoid reporting inaccurate figures.*
 
 ---
 
 ## Sector Summary
-- **Advancing:** ~2 / 20 | **Declining:** ~15 / 20 | **Unchanged/Unknown:** ~3 / 20
-- **Top Gainer:** N/A (LRCX +7% post-earnings earlier in week; AMAT +98% YTD leader)
-- **Top Decliner:** MRVL (-10.00%) — post-earnings sell-off following Q2 FY2027 report
-- **Sector Trend:** Broad risk-off session dominated by post-earnings "sell-the-news" dynamics; the PHLX SOX Index has staged a 21.3% recovery from its July 29 low but gave back ground Friday as NVIDIA's blockbuster print (+106% YoY revenue) failed to sustain bullish momentum into the close.
+
+- **SOX Index:** Recovered +21.3% from July 29 low, technically exiting bear market territory after Q2 earnings season
+- **Global Semiconductor Market 2026:** Projected at **$1.51 trillion**, up ~90% YoY; memory segment alone forecast to reach $800B+ (WSTS)
+- **CY2026 Wafer Fab Equipment (WFE):** Revised upward to the "low $150B range" (Lam Research CEO Tim Archer, from prior $140B estimate)
+- **KPMG Semiconductor Industry Confidence Index:** 63 (third-highest in 20 years); 93% of leaders expect revenue growth
+- **Sector Trend:** AI-driven hyperscaler spending is propelling historic revenue growth across logic, memory, and equipment; cautious undercurrent around trade policy and AI capex sustainability
+
+### Notable Gainers (Recent Sessions)
+- **TSM:** +2.30% on Aug 28; near $2T market cap milestone
+- **INTC:** +4.36% on Aug 28 amid post-offering stabilization
+- **NVDA:** +7.4% on August 26 earnings day after crushing Q2 consensus
+- **AMD:** +5.6% on August 14 debt offering announcement
+
+### Notable Decliners (Recent Sessions)
+- **AMAT:** -5% to -6% post-earnings (Aug 13–14) despite beating estimates
+- **NVDA:** -4.57% in a session following earnings spike (profit-taking)
+- **MCHP:** Down ~12% over trailing month (July–August)
 
 ---
 
 ## Top Movers
 
-### Biggest Gainers
-1. **AMAT (Applied Materials)** — Stock has surged 98% YTD as of mid-August, making it the best-performing large-cap chip equipment name in 2026. AI-driven capex expansion from hyperscalers is driving demand for deposition and etch equipment. Stifel raised its price target alongside Buy ratings on AMAT, KLAC, and LRCX. Session change not confirmed, but trend remains strongly bullish.
+### Biggest Gainers (Recent Period)
+1. **AMD (+123.8% YTD)** — Data center revenue more than doubled in Q2 2026; Q3 guidance of $13.0B smashed $12.5B consensus; winning meaningful AI GPU share from hyperscalers.
+2. **INTC (+175% YTD)** — Transformed by a landmark $23B equity offering (initially $15B, upsized twice) with a 10% US government equity stake for domestic chip manufacturing, though stock now trades below the $95/share offering price.
+3. **AMAT (+98–99% YTD)** — Q3 FY2026 revenue hit $9.12B (+25% YoY); Q4 guidance of ~$10.25B crushed the $9.55B consensus; despite record results, shares fell ~5% post-earnings as expectations were sky-high after a 108% surge.
 
-2. **LRCX (Lam Research)** — Lam reported fiscal Q4 2026 results that drove a 7% single-session gain. Revenue for full-year FY2026 reached $23.23B (+26% YoY), with earnings growing 35.6%. The Board also approved a **27% dividend increase** (to $0.33/quarter) on August 27. Stock sits at $366.81 vs. all-time high of $433.33 set June 30.
-
-3. **MU (Micron Technology)** — Among the relative outperformers on August 29 (-0.27%), Micron has been a primary beneficiary of the **High Bandwidth Memory (HBM) supercycle** for AI data centers. HBM demand surged 18 percentage points as an industry growth priority. Micron's stock at $932.86 reflects the massive valuation re-rating following record HBM customer wins.
-
-### Biggest Decliners
-1. **MRVL (Marvell Technology, -10.00%)** — Marvell fell sharply after its fiscal Q2 FY2027 earnings report (August 27). Despite reporting $2.74B in quarterly revenue (beating consensus), forward guidance disappointed investors and the "sell-the-news" reaction was acute. A major customer reducing AI chip procurement from Marvell added to the pressure. Analysts remain broadly bullish (43 Strong Buy, 0 Sell) but near-term headwinds are real.
-
-2. **NVDA (NVIDIA, -4.57%)** — NVIDIA fell $10.42 to $217.55 on August 29, one session after reporting one of the most remarkable earnings prints in semiconductor history: Q2 FY2027 EPS of $2.22 (100%+ YoY), revenue of $96.2B (+106% YoY). The post-earnings decline reflects elevated expectations already priced in (forward P/E >40x). 58 analysts carry Strong Buy ratings with an average 12-month price target of $320.77 (~47% implied upside). The 52-week range of $164.07–$236.54 highlights the stock's broad trading range.
-
-3. **MPWR (Monolithic Power Systems, -4.42%)** — Monolithic Power pulled back 4.42% despite robust fundamentals. Q2 2026 sales rose 48% YoY to $981M; Q3 guidance called for 56% YoY growth. Management raised enterprise data growth guidance to 130% for 2026 (up from 85%), yet the stock has corrected 20%+ from its 52-week high of $1,714.09. Market cap remains ~$64.7B.
+### Biggest Decliners (Recent Period)
+1. **QCOM (-10.7% YTD)** — Only major semiconductor name with a negative YTD return; soft Q3 2026 guidance and warnings of price increases have weighed on sentiment; consensus sits at Hold.
+2. **MU (-26% from June peak of $1,257)** — Despite Q3 FY2026 revenue of $41.46B (+346% YoY) and Q4 guidance of $50B, Micron has been hit by AI capex anxiety and broader profit-taking from its parabolic run.
+3. **SWKS (lagging peers)** — At $65.70, Skyworks continues to face headwinds from its exposure to consumer electronics and smartphone end-markets, which remain weaker than AI-infrastructure-exposed peers.
 
 ---
 
 ## Latest News & Analyst Commentary
 
 ### Sector-Wide
-
-**Record Quarter, Elevated Valuations:** The semiconductor sector posted its best-ever quarter in Q2 2026, with industry revenue up more than 80% year-over-year. However, with AI chip leaders trading at forward P/Es of 40–120x, experts are flagging valuation risk even as fundamentals hit new highs.
-
-**$1.5 Trillion Market:** The World Semiconductor Trade Statistics (WSTS) projects global semiconductor sales will reach **$1.5 trillion in 2026**, up from $795.6B recorded in the prior year — a near-doubling in market size driven predominantly by AI infrastructure spending.
-
-**PHLX SOX Recovery:** The PHLX Semiconductor Index (SOX) fell 21% in July 2026 — its worst single-month decline since October 2008 — before staging a 21.3% recovery by late August. The iShares Semiconductor ETF (SOXX) pulled back 2.7% on August 29, showing the recovery remains fragile.
-
-**AI Infrastructure Capex:** Governments and enterprises globally are projected to invest more than **$4 trillion** in AI data center infrastructure through 2028, with up to **$2.8 trillion** allocated specifically to semiconductors. This creates durable long-cycle demand for chip equipment, logic, and memory.
-
-**HBM Memory Supercycle:** High Bandwidth Memory (HBM) has jumped 18 percentage points year-over-year as a semiconductor growth priority, now tied with microprocessors at the top of industry product rankings (67% of executives cite it as a top opportunity vs. 49% last year).
-
-**Tariffs as Top Risk:** For the first time, tariffs and trade policy have displaced supply chain disruption as the **#1 concern** among semiconductor industry leaders, per the SIA's 2026 State of the Industry Report. US-China export controls and competing national chip-investment programs are reshaping supply chains.
-
-**Analyst Picks (Barclays):** Blayne Curtis of Barclays named three top chip ideas for 2026: **NVDA, AVGO, and KLAC** — all with Buy ratings — citing durable AI infrastructure demand and margin leadership.
+- **Historic scale:** The World Semiconductor Trade Statistics (WSTS) projects global semiconductor sales will exceed **$1.51 trillion** in 2026, with Q2 alone registering $403.3B — a 35.1% sequential increase. Bank of America Securities forecasts a 30% YoY surge, crossing the $1 trillion annual milestone for the first time.
+- **AI is the universal driver:** Every major chip category — advanced logic, HBM memory, process control equipment, EDA software — traces its demand back to hyperscaler AI infrastructure spend. AWS, Microsoft Azure, Google Cloud, and Meta all maintained or raised 2026 capex plans.
+- **Trade policy overtakes talent as #1 risk:** For the first time in KPMG's annual survey, semiconductor leaders rank tariffs and trade policy as their top concern, above talent and capital. Energy supply constraints are emerging as a secondary risk for advanced manufacturing fabs.
+- **WFE supercycle confirmed:** Lam Research CEO Tim Archer raised the CY2026 wafer fab equipment spending outlook to the "low $150B range," up from $140B — a figure that would represent multi-year record spending levels.
+- **Equipment-sector earnings reset bar:** AMAT fell 5–6% and LRCX sold off ~4–5% on August 19 when Anthropic AI spend headlines introduced near-term uncertainty. This illustrates the fine line between genuine demand and market expectation management for equipment stocks running up 34–100%+ YTD.
 
 ### Stock-Specific
 
-| Ticker | News |
-|--------|------|
-| **NVDA** | Q2 FY2027 earnings beat: revenue $96.2B (+106% YoY), EPS $2.22 (2x YoY). Stock fell -4.57% on Aug 29 in "sell-the-news" reaction. Avg. PT $320.77 (+47% upside). |
-| **AMD** | Q2 2026 revenue $11.54B (+50% YoY); data center revenue doubled to $6.7B. Q3 guidance $13.0B (+41% YoY) beats FactSet consensus. Customer defection headwind weighs. |
-| **AVGO** | $164.6B in firmly committed customer order backlog (~30% due within 12 months). Revenue up 48% YoY. AI chip demand described as robust; analysts bullish. |
-| **MU** | Primary HBM beneficiary; -0.27% on Aug 29, among sector's best performers. Record data center memory demand driving valuation re-rating. |
-| **MRVL** | -10% post-earnings (Aug 27). Revenue $2.74B beat estimates, but guidance and customer defection concerns sent stock lower. Google AI chip deal worth $12.2B still intact. |
-| **AMAT** | +98% YTD as of mid-August. Q3 revenue $9.12B; Q4 guidance $10.25B. Stifel raised price target with Buy rating. |
-| **LRCX** | FY2026 revenue $23.23B (+26% YoY). 27% quarterly dividend increase approved Aug 27. Stock +7% post-earnings; all-time high $433.33 on Jun 30. |
-| **KLAC** | Named Barclays' top chip pick; 60.9% gross margins, 38.2% operating margins. 52W range: $83.22–$307.37. Avg. PT $234.35 (+27.57% upside). |
-| **MPWR** | Q2 sales +48% YoY; Q3 guided for +56% YoY. Enterprise data growth guidance raised to 130% for 2026. Stock -20%+ from 52W high of $1,714. |
-| **QCOM** | FY2026 EPS estimates trimmed -0.8% to $10.69; FY2027 trimmed -0.4% to $10.84. Market cap ~$174B. |
-| **INTC** | Under competitive pressure from Qualcomm in CPUs and NVIDIA/AMD in AI. Trading near $89.47 (-2.85%); market cap ~$380B. |
-| **SWKS / MCHP / ON** | Shares declined sharply in prior sessions per Globe and Mail report; ON near $74.80, MCHP at $72.93, SWKS at $65.70 as of Aug 29–30. |
-| **SNPS** | Stock at $410 (Aug 26) near critical support zone ($377–$418). Cadence (CDNS) raised full-year guidance; Q2 revenue +24% YoY, record backlog $8.1B. |
-| **ENTG** | Q2 2026: 11% revenue growth, record gross margins, strong FCF driven by AI-related wafer fab materials demand. |
+**NVDA — ~$212 | Q2 FY2027 Earnings (Aug 26)**
+- Revenue: **$96.2B, +106% YoY**; EPS: **$2.22** (double the prior year). Both metrics crushed consensus estimates by wide margins.
+- Key deals: AWS–NVIDIA partnership expanding by 2 million additional GPUs for agentic and physical AI. Jetson Orin Nano 2 robotics computer launched; Groq 3 LPX in full production.
+- FY2028 growth forecast: 70% versus analyst consensus of just 44%.
+- Analyst consensus: **58 of 61 analysts rate Buy or Strong Buy**. Average price target: **$305.41** (implying +44% upside). Wedbush's Matt Bryson and Mizuho's Vijay Rakesh among the bulls.
+
+**AMD — $476 | +123.8% YTD**
+- Q2 2026 revenue: **$11.5B, +50% YoY**; data center revenue more than doubled.
+- Q3 2026 guidance: **$13.0B** (vs. $12.5B consensus); strong sequential acceleration.
+- $4.75B senior note offering priced August 14, signaling confidence in demand.
+- Microsoft Azure Helios collaboration and Anthropic MI450 GPU deal highlight AMD's hyperscaler momentum.
+
+**INTC — $89.25 | +175% YTD but below offer price**
+- Landmark $23B equity offering (originally $15B, upsized to $20B then $23B with overallotment) priced at **$95/share** (August 10–12). US government took a **10% equity stake** in support of domestic chip manufacturing.
+- Stock now trades below the offer price ($87–$93 range), reflecting near-term dilution concerns.
+- Capital raise positions Intel to accelerate its IDM 2.0 foundry strategy and compete with TSMC in advanced nodes.
+
+**AVGO — ~$380 | Earnings September 2**
+- Fiscal Q3 earnings due September 2; Cathie Wood's ARK Invest purchased $20.5M of AVGO ahead of results — a notable vote of confidence.
+- Kyndryl expanded its strategic alliance for VMware Cloud Foundation services.
+- 49 analysts: **Strong Buy consensus**; average price target **$525.97** (+42.6% implied upside).
+
+**TSM — $417.52 | Near $2T market cap**
+- Capital expenditure raised to **$60–64B**, with 70–80% directed at 3nm and 2nm process nodes.
+- Three new 3nm fabs under construction in Taiwan, Arizona, and Kumamoto, Japan.
+- New Xiaomi chip deal: producing the Xring O3 smartphone processor and two other chips.
+- Stock dipped 2.3% on August 31 amid broader Taiwan technology selling.
+
+**MU — $935 | Record Revenue, -26% from June Peak**
+- Q3 FY2026 revenue: **$41.46B, +346% YoY**; Cloud Memory Business Unit alone generated $13.77B (+307%).
+- Q4 FY2026 guidance: **$50.0B** — another record. Earnings call: September 30.
+- Down 26% from June's $1,257 peak on AI capex anxiety despite record-breaking fundamentals.
+- Manish Bhatia promoted to COO; $250M committed to AI R&D.
+- DDR4 RAM prices reportedly up **26x** over the past year per one CTO at a recent industry event.
+
+**ASML — $1,844 | Analysts Bullish**
+- Q2 2026 revenue: **$10.64B**; EPS: **$8.65** (beat $8.01 estimate). Full-year 2026 guidance raised.
+- 44 analysts: **Strong Buy**; average PT **$2,155** (+27%); bull case $2,452.
+- JPMorgan: "Darkest hour has passed." Bank of America named ASML its top pick; called the prior selloff "unjustified."
+
+**AMAT — ~$535 | Record Q3, Fell on High Bar**
+- Q3 FY2026 (Aug 13): Revenue **$9.12B, +25% YoY**; EPS $3.50 — both beat estimates. Shares still fell ~5%.
+- Q4 guidance: **~$10.25B** (vs. $9.55B consensus), a massive beat.
+- Year-to-date gain of ~98%–99% left the stock priced for perfection; China revenues fell to 28% of revenue from 35% a year ago, adding concern.
+- Wolfe Research named AMAT its **#1 semicap pick** citing DRAM exposure and valuation.
+
+**LRCX — Record Margins**
+- Q4 FY2026 (July 29): Revenue **$6.72B, +30% YoY**; gross margin **52%** — highest in 20 years.
+- Q1 FY2027 guidance: **$8.1B ± $400M** — strong sequential step-up.
+- Stock up ~34% from July 29 earnings date; Intel's capex increase to $20B signals strong WFE demand.
+
+**QCOM — ~$157 | Only Major Decliner YTD**
+- Q3 2026 guidance disappointed; warned of price increases.
+- Consensus: **Hold** (11 Buy / 23 Hold / 3 Sell); avg PT $193.10.
+- Citi (Atif Malik): Hold, $175 PT reiterated August 25.
+
+**ENTG — $161.03 | Q2 Beat**
+- Q2 2026 revenue: **$883.2M**, exceeding consensus of $835.49M.
+- Goldman Sachs raised price target to $95 but maintains Sell rating — stock has significantly outperformed GS's thesis.
 
 ---
 
 ## Analysis & Outlook
 
-**"Best Quarter Ever" Meets Maximum Expectations**
+The US semiconductor sector enters the final month of August 2026 at a historic inflection point. Global chip revenue is on pace to breach **$1.5 trillion** for the year — a figure that would have seemed impossible just two years ago — fueled by an AI infrastructure buildout that shows no signs of plateauing. NVIDIA's August 26 earnings crystallized the magnitude of this demand: $96.2B in quarterly revenue, growing at 106% year-over-year, with data center GPU orders so robust that hyperscalers are deepening exclusive partnerships (AWS's 2 million GPU expansion being the latest example). With 58 of 61 analysts maintaining Buy ratings and an average price target of $305, the street is unambiguously bullish on the sector's dominant player, though the stock's recent pullback from $230+ to ~$212 suggests some near-term digestion after the earnings spike.
 
-The semiconductor sector finds itself in a paradoxical position on August 30, 2026: historical operating results are colliding with historically elevated valuations, producing a classic "sell-the-news" dynamic across the board. NVIDIA's Q2 FY2027 results — revenue of $96.2 billion (+106% YoY), EPS more than double year-ago levels — would have been celebrated as extraordinary achievements in any prior market cycle, yet the stock fell 4.57% on the session. AMD's post-earnings reaction told a similar story: +50% YoY revenue, data center business doubling, Q3 guidance beating estimates by $500M, yet the stock sold off on a customer defection headline. This is the defining tension of the current cycle: the fundamental data is genuinely exceptional, but expectations have moved so far ahead of delivery that even blockbuster prints disappoint on the margin.
+The theme of **AI GPU democratization** is reshaping competitive dynamics. AMD's Q2 revenue of $11.5B (+50% YoY) with data center revenue more than doubling reflects genuine market share gains as hyperscalers diversify supply risk away from NVIDIA. Lisa Su's $13.0B Q3 guidance — comfortably ahead of consensus — validated AMD's roadmap execution, and the company's 123.8% YTD return is a direct reflection of this credibility. The stock now commands a valuation that implies the market expects AMD to become a trillion-dollar company by 2027 at its current trajectory. Meanwhile, Intel's dramatic transformation — anchored by a $23B equity offering with US government participation — represents a completely different kind of investment thesis: a turnaround bet on domestic manufacturing capacity, with the near-term overhang of dilution and a stock trading below its $95 offering price. Whether Intel's IDM 2.0 strategy ultimately succeeds at the foundry level remains the central long-term question in the sector.
 
-**AI Infrastructure: Durable, But Priced for Perfection**
+The **memory supercycle** deserves particular attention as one of the most extreme demand environments in semiconductor history. Micron's Q3 FY2026 revenue surging 346% YoY to $41.46B — with Q4 guidance of $50B — reflects a structural transformation driven by High Bandwidth Memory (HBM) demand for AI accelerators. The reported 26x increase in DDR4 prices over the past year is extraordinary and reflects the gap between demand and manufacturing capacity. Yet Micron's stock is down 26% from its June peak of $1,257, now at $935, demonstrating that even in the most extreme bull markets, stocks can correct sharply when the acceleration rate of AI capex spending comes into question. This dynamic — strong fundamentals but narrative-driven volatility — is the defining characteristic of semiconductor stocks in 2026.
 
-The macro backdrop for semiconductor demand is as compelling as it has ever been. The WSTS projects global chip sales will hit $1.5 trillion in 2026 — nearly double the prior-year base — fueled by AI data center capex that analysts estimate will exceed $4 trillion through 2028. Broadcom's $164.6 billion committed order backlog (much of it non-cancellable) provides perhaps the clearest forward visibility signal in the sector, effectively pre-purchasing AI ASIC and networking silicon well into 2027. Hyperscaler capital spending has not abated despite the geopolitical noise around export controls; if anything, the competition between US cloud providers has accelerated silicon investment cadences.
+The **semiconductor equipment complex** is benefiting from the largest wafer fab equipment cycle ever recorded. Lam Research's Q4 FY2026 gross margin of 52% — the highest in the company's 20-year history — combined with Q1 FY2027 guidance of $8.1B signals sustained, structural demand rather than a cyclical surge. Applied Materials' Q4 guidance of $10.25B (vs. $9.55B consensus) similarly points to a capacity expansion wave that is just getting started. Both stocks sold off sharply on August 19 when an Anthropic AI spending headline created uncertainty — underscoring that at +98% (AMAT) and +34% from recent lows (LRCX), these stocks are priced for continued strong execution with minimal forgiveness for misses. ASML's position as the sole provider of EUV lithography gives it perhaps the most defensible moat in the entire sector; JPMorgan and Bank of America's bullish reiteration around its $2,155 average price target (bull case $2,452) reflects confidence that the European champion's exposure to advanced node capacity expansion is only beginning.
 
-**Equipment Stocks: The Secular Compounders**
-
-Among the most compelling risk/reward propositions in the current environment are semiconductor capital equipment names. Applied Materials (+98% YTD), Lam Research (fiscal revenue +26% YoY, 35.6% earnings growth, new 27% dividend hike), and KLA Corporation (60.9% gross margins, Barclays' top pick) are benefiting from a structural upgrade cycle in leading-edge logic and HBM memory capacity — and unlike fabless chip designers, they face less earnings volatility from single-customer concentration. Stifel's simultaneous price target increases on AMAT, KLAC, and LRCX reflect confidence that AI-driven wafer fab equipment orders have years of runway ahead, with the global $2.8 trillion AI semiconductor investment commitment providing a long-cycle demand floor.
-
-**Memory: The Sleeping Giant Wakes**
-
-Micron's performance this session (-0.27%, the quietest mover among major names) belies the magnitude of the transformation underway in memory semiconductors. HBM has ascended from a niche product to the most strategically important memory technology in a single cycle, with 67% of semiconductor industry leaders now citing it as a top growth opportunity. Micron, SK Hynix, and Samsung are operating at the limits of their HBM production capacity; yields remain constrained, and pricing has surged accordingly. With AI model sizes continuing to grow and inference workloads expanding across every cloud provider, the structural case for premium memory pricing remains intact well into 2027.
-
-**Risks: Tariffs, Concentration, and the July Reminder**
-
-Three risks deserve close monitoring heading into the final quarter of 2026. First, trade policy has emerged as the sector's top concern for the first time, per the SIA — US-China tensions over export controls, combined with competing national chip-investment programs in Europe, Japan, South Korea, and China itself, are introducing structural supply chain uncertainty that years of AI euphoria had masked. Second, customer concentration risk is real: AMD's -3.4% session was driven in part by a single hyperscaler shifting AI chip purchasing to a rival — a reminder that in a supply-constrained but rapidly-evolving AI hardware market, no single relationship is permanent. Third, the July 2026 selloff — a 21% SOX decline in a single month, the worst since 2008 — demonstrated that elevated valuations can compress rapidly when sentiment shifts, even in the absence of fundamental deterioration.
-
-**Stocks to Watch**
-
-MRVL's -10% session is worth monitoring closely: the $12.2B Google AI chip commitment remains in place and management's longer-term design-win pipeline is intact, making this pullback a potential entry point for investors with a 12-18 month horizon. MPWR, down 20%+ from its 52-week high despite guiding for 56% YoY growth in Q3, similarly offers an asymmetric setup — management's upward revision to 130% enterprise data growth guidance suggests the correction is sentiment-driven rather than fundamental. Among equipment names, LRCX near $366 with a 27% dividend increase just approved and fiscal revenue accelerating represents a quality growth-at-reasonable-price opportunity with less earnings-beat-dependent upside than the fabless leaders.
+Looking ahead, several key risk vectors demand monitoring. **Trade policy** has now overtaken talent as the top industry concern per KPMG's survey, and any escalation in US-China chip restrictions could disproportionately impact AMAT (China fell to 28% of revenue from 35%), LRCX, and KLAC. **AI capex sustainability** is the sector's central macro risk: if any major hyperscaler signals a pause or reduction in GPU/infrastructure spending — even briefly — stocks priced for compounding 50%+ growth rates could correct 20–30% rapidly. **Energy supply** is emerging as a new constraint, with multiple fab expansion projects increasingly constrained by power availability in key geographies. Despite these risks, the fundamental backdrop remains the strongest in the semiconductor industry's history. The convergence of AI, edge computing, autonomous vehicles, and advanced memory requirements creates what appears to be a decade-long secular demand tailwind that is still in its early innings. Qualcomm (YTD -10.7%) and Skyworks ($65.70) serve as reminders that not all semiconductor companies participate equally — those without clear AI exposure face a challenging environment as capital rotates to high-growth AI infrastructure names.
 
 ---
 
-*Data sources: Web search results from Yahoo Finance, CNBC, Google Finance, Barclays, SIA (Semiconductor Industry Association), Kiplinger, 247WallSt, Eastern Herald. Market caps marked `~` are estimates based on price × approximate shares outstanding. For informational purposes only — not financial advice.*
+## Data Sources
+- Yahoo Finance, Google Finance (market data)
+- CNBC, Kiplinger, 24/7 Wall St., Forbes, Bloomberg (news and pricing)
+- WSTS (World Semiconductor Trade Statistics)
+- KPMG Global Semiconductor Industry Outlook 2026
+- Company earnings releases (NVDA, AMD, INTC, AMAT, LRCX, MU, ASML)
+- Analyst research: Mizuho, Jefferies, Citi, JPMorgan, Bank of America, Wolfe Research, Wedbush
+
+*For informational purposes only — not financial advice. Daily price change data was unavailable for most tickers due to financial data provider access restrictions; approximate current prices sourced from web search results. Verify all figures before making investment decisions.*
