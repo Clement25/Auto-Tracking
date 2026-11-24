@@ -7,7 +7,7 @@
 *Prices as of November 24, 2026 (intraday / closing estimates). Data sourced from web search aggregates (Yahoo Finance, MarketBeat, BigGo Finance, GuruFocus). Prices marked † are estimates based on sector movement; N/A indicates data unavailable at time of report generation.*
 
 | # | Ticker | Company | Price (USD) | Change (USD) | Change (%) | Market Cap (est.) | 52W High | 52W Low |
-|---|--------|---------|-------------|--------------|------------|-------------------|----------|---------|
+|---|--------|---------|-------------|--------------|------------|-------------------|----------|----------|
 | 1 | NVDA | NVIDIA Corporation | $152.24 | -$12.81 | -7.76% | ~$3.71T | $243.37 | $124.50 |
 | 2 | TSM | Taiwan Semiconductor (ADR) | $351.38 | -$12.22 | -3.40% | ~$1.82T | N/A | N/A |
 | 3 | AVGO | Broadcom Inc. | ~$373.00† | ~-$17.00 | ~-4.40% | ~$1.78T | N/A | N/A |
@@ -34,7 +34,7 @@
 ## Sector Summary
 - **Advancing:** ~1–2 / 20 | **Declining:** ~17 / 20 | **Data Unavailable:** 3 / 20
 - **Top Gainer:** N/A (sector broadly declining; KLAC relative outperformer on Singapore plant news)
-- **Top Decliner:** TXN (-10.00%) | **Close Second:** MU (-9.23%), AMD (-9.64%)
+- **Top Decliner:** TXN (-10.00%) | **Close Second:** AMD (-9.64%), MU (-9.23%)
 - **Sector Trend:** Sharp broad-based profit-taking following Monday's historic AI/chip rally; Philadelphia Semiconductor Index (SOX) fell approximately 6.17% to 8,996.18, surrendering a significant portion of Friday's 14% rebound driven by Jensen Huang's return to NVIDIA.
 
 ---
